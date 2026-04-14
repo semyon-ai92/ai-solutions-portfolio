@@ -81,7 +81,7 @@ text
 - Новые менеджеры начали давать первые продажи на 2 недели раньше
 - Бот ответил на 500+ вопросов за первый месяц
 
-## 📂 Файлы для портфолио
+## 📂 Файлы 
 - [Системный промпт (System Prompt)](./system_prompt.md)
 - [Примеры диалогов с ботом](./dialog_examples.md)
-- [Схема интеграции (Make.com blueprint)](./make_blueprint.json) — при наличии
+- [Схема интеграции (Make.com blueprint)](./make_blueprint.json)
