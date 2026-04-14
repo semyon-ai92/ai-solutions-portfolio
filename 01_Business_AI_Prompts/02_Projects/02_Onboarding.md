@@ -49,12 +49,13 @@ markdown
 4. LLM формирует ответ по шаблону и отправляет обратно в Telegram
 
 **Схема работы:**
-text
+
 [Новый сотрудник] → [Telegram Bot] → [Make.com] → [Поиск в Notion/Google Docs]
+
 ↓
 [Новый сотрудник] ← [Telegram Bot] ← [Make.com] ← [LLM (ChatGPT/DeepSeek)]
 
-text
+
 
 ## ✨ Пример использования
 
