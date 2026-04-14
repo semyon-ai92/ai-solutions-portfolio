@@ -51,7 +51,9 @@ markdown
 **Схема работы:**
 
 [Новый сотрудник] → [Telegram Bot] → [Make.com] → [Поиск в Notion/Google Docs]
+
 ↓
+
 [Новый сотрудник] ← [Telegram Bot] ← [Make.com] ← [LLM (ChatGPT/DeepSeek)]
 
 
