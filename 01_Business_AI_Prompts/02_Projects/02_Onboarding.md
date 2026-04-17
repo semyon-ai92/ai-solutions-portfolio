@@ -88,6 +88,6 @@
 - Бот ответил на 500+ вопросов за первый месяц
 
 ## 📂 Файлы 
-- [Системный промпт (System Prompt)](./System%20Prompts/02_Onboarding.md)
+- [Системный промпт (System Prompt)](../03_Prompts/02_Onboard_Prompt.md)
 - [Примеры диалогов с ботом](./dialog_examples.md)
 - [Схема интеграции (Latenode.com blueprint)](./make_blueprint.json)
