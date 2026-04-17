@@ -88,6 +88,6 @@
 - Бот ответил на 500+ вопросов за первый месяц
 
 ## 📂 Файлы 
-- [Системный промпт (System Prompt)]([/01_Business_AI_Prompts/02_Projects/System%20Prompts/02_Onboarding_Prompt.md)](https://github.com/semyon-ai92/ai-solutions-portfolio/blob/main/01_Business_AI_Prompts/02_Projects/System%20Prompts/02_Onboarding_Prompt)
+- [Системный промпт (System Prompt)](01_Business_AI_Prompts/02_Projects/System%20Prompts/02_Onboarding_Prompt.md)
 - [Примеры диалогов с ботом](./dialog_examples.md)
 - [Схема интеграции (Latenode.com blueprint)](./make_blueprint.json)
