@@ -20,4 +20,4 @@
 ## 📫 Как со мной связаться
 *   **Telegram:** @VolchS
 *   **Email:** s.s.volchkov@mail.ru
-*   **Резюме:** https://spb.hh.ru/resume/278f99dfff0f73cc730039ed1f6542764f367]
+*   **Резюме:** https://spb.hh.ru/resume/278f99dfff0f73cc730039ed1f6542764f367
