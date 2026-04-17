@@ -90,4 +90,4 @@
 ## 📂 Файлы 
 - [Системный промпт (System Prompt)](../03_Prompts/02_Onboard_Prompt.md)
 - [Примеры диалогов с ботом](./dialog_examples.md)
-- [Схема интеграции (Latenode.com blueprint)](./make_blueprint.json)
+- [Схема интеграции (Latenode.com blueprint)](../04_Latenode_schemas/02_Onboarding_scheme.json)
